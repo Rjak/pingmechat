@@ -1,0 +1,11 @@
+[Chat]
+AllowedOrigins: http://lightwillow,http://foldingrain.com
+
+[SMSNotification]
+Enable: True
+SMTPHost: smtp.gmail.com
+SMTPPort: 587
+SMTPLogin: <gmail address>
+SMTPPassword: <gmail password>
+From: <from>
+GatewayEmail: <gateway email>
